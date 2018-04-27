@@ -4,11 +4,9 @@ My minimal Github landing page.
 
 ## Why?
 
-GitHub makes it easy to create personal websites.
+GitHub makes it incredibly easy to create personal websites.  I wanted a page in there to showcase everything I do.
 
-I wanted a landing page on GitHub to showcase everything that I do.
-
-So I sat down one night and created this page.
+So I put together this thing.
 
 ## License
 
