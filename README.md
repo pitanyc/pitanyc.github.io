@@ -1,6 +1,6 @@
-# Github Landing Page
+# GitHub Landing Page
 
-My minimal Github landing page.
+My minimalistic GitHub landing page.
 
 ## Why?
 
